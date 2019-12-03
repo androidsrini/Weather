@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherApplication</string>
+    <string name="loading">Loading...</string>
+    <string name="celsuis_place_holder">%1$s \u2103</string>
+</resources>
